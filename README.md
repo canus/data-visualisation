@@ -1,2 +1,2 @@
 # data-visualisation
-project for data visualisation
+project for data visualisation with R
